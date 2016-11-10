@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/testrepo/!svn/ver/5/trunk
+END
+source.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/testrepo/!svn/ver/4/trunk/source.sh
+END

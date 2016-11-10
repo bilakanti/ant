@@ -1,0 +1,185 @@
+GNOME_KEYRING_SOCKET=/tmp/keyring-nEvesT/socket
+SSH_AUTH_SOCK=/tmp/keyring-nEvesT/socket.ssh
+
+(polkit-gnome-authentication-agent-1:2968): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:2968): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+
+** (gnome-user-share:2975): WARNING **: gnome-user-share cannot be started as root for security reasons.
+
+(process:2993): GLib-WARNING **: goption.c:2132: ignoring no-arg, optional-arg or filename flags (8) on option of type 0
+
+(process:2993): GLib-WARNING **: goption.c:2132: ignoring no-arg, optional-arg or filename flags (8) on option of type 0
+
+(process:2993): GLib-WARNING **: goption.c:2132: ignoring no-arg, optional-arg or filename flags (8) on option of type 0
+Failed to play sound: Not available
+W: main.c: This program is not intended to be run as root (unless --system is specified).
+** Message: adding killswitch idx 0 state KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitch 0 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+** Message: killswitch 0 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+** Message: applet now removed from the notification area
+Initializing nautilus-gdu extension
+Initializing nautilus-open-terminal extension
+** Message: applet now embedded in the notification area
+
+(bluetooth-applet:3017): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(bluetooth-applet:3017): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(bluetooth-applet:3017): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(bluetooth-applet:3017): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(nm-applet:2978): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(nm-applet:2978): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(nm-applet:2978): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(nm-applet:2978): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(gnome-volume-control-applet:2983): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(gnome-volume-control-applet:2983): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(gnome-volume-control-applet:2983): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(gnome-volume-control-applet:2983): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion `GDK_IS_WINDOW (window)' failed
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Gdk-CRITICAL **: IA__gdk_window_get_screen: assertion `GDK_IS_WINDOW (window)' failed
+
+(nautilus:2943): Gtk-CRITICAL **: IA__gtk_drag_set_icon_pixmap: assertion `!mask || gdk_window_get_screen (mask) == screen' failed
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:2943): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+** Message: RFKILL event: idx 0 type 2 (BLUETOOTH) op 1 (DEL) soft 0 hard 0
+** Message: removing killswitch idx 0
+** Message: RFKILL event: idx 1 type 2 (BLUETOOTH) op 0 (ADD) soft 0 hard 0
+** Message: adding killswitch idx 1 state KILLSWITCH_STATE_UNBLOCKED
+** Message: RFKILL event: idx 1 type 2 (BLUETOOTH) op 2 (CHANGE) soft 0 hard 0
+** Message: killswitch 1 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+** Message: RFKILL event: idx 1 type 2 (BLUETOOTH) op 1 (DEL) soft 0 hard 0
+** Message: removing killswitch idx 1
+** Message: RFKILL event: idx 2 type 2 (BLUETOOTH) op 0 (ADD) soft 0 hard 0
+** Message: adding killswitch idx 2 state KILLSWITCH_STATE_UNBLOCKED
+** Message: RFKILL event: idx 2 type 2 (BLUETOOTH) op 2 (CHANGE) soft 0 hard 0
+** Message: killswitch 2 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+** Message: RFKILL event: idx 2 type 2 (BLUETOOTH) op 1 (DEL) soft 0 hard 0
+** Message: removing killswitch idx 2
+** Message: RFKILL event: idx 3 type 2 (BLUETOOTH) op 0 (ADD) soft 0 hard 0
+** Message: adding killswitch idx 3 state KILLSWITCH_STATE_UNBLOCKED
+** Message: RFKILL event: idx 3 type 2 (BLUETOOTH) op 2 (CHANGE) soft 0 hard 0
+** Message: killswitch 3 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+
+(bluetooth-applet:3017): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+kbuildsycoca4 running...
+"KConfigIni: In file /tmp/kde-root/kconf_updatebm8743.tmp, line 1: " Invalid entry (missing '=') 
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QPainter::begin: Widget painting can only begin as a result of a paintEvent
+QPainter::translate: Painter not active
+QPainter::setClipRect: Painter not active
+QPainter::hasClipping: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::drawRects: Painter not active
+QPainter::hasClipping: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::drawRects: Painter not active
+QPainter::hasClipping: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::drawRects: Painter not active
+QPainter::hasClipping: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::drawRects: Painter not active
+QPainter::hasClipping: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::drawRects: Painter not active
+QPainter::setPen: Painter not active
+QPainter::worldTransform: Painter not active

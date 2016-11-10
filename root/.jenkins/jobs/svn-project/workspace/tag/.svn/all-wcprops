@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/testrepo/!svn/ver/9/tag
+END
+release1
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/testrepo/!svn/ver/8/tag/release1
+END
+release2
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/testrepo/!svn/ver/9/tag/release2
+END

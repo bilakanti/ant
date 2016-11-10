@@ -1,0 +1,99 @@
+8
+
+dir
+10
+http://192.168.220.130/svn/testrepo
+http://192.168.220.130/svn/testrepo
+
+
+
+2016-11-07T09:17:38.957430Z
+10
+dev3
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0dbc2f59-d8a2-4b76-9743-3c12ee229b18
+
+Myapp
+dir
+
+Phase 1
+dir
+
+Phase2
+dir
+
+branch
+dir
+
+index.html
+file
+
+
+
+
+2016-11-08T02:08:19.000000Z
+dae0358dd717d6e18cfb823ed3fe6a91
+2016-11-07T07:22:01.631730Z
+6
+dev1
+has-props
+
+phase3
+dir
+
+script.sh
+file
+
+
+
+
+2016-11-08T02:08:19.000000Z
+f8c4cf6ac28e49bea8aecfc2eb91c25b
+2016-11-04T11:42:23.967046Z
+2
+dev2
+has-props
+
+script2.sh
+file
+
+
+
+
+2016-11-08T02:08:18.000000Z
+c454fa43b738778e96c30c739efd9b3d
+2016-11-07T08:54:30.815583Z
+7
+dev3
+
+script2.sh.txt
+file
+
+
+
+
+2016-11-08T02:08:19.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2016-11-07T08:54:30.815583Z
+7
+dev3
+
+tag
+dir
+
+trunk
+dir
+

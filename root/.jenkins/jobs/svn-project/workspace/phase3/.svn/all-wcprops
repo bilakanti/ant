@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/testrepo/!svn/ver/10/phase3
+END
+code3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/testrepo/!svn/ver/10/phase3/code3.txt
+END
+code3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/testrepo/!svn/ver/10/phase3/code3.sh
+END

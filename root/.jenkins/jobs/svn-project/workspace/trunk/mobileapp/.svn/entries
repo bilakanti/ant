@@ -1,0 +1,40 @@
+8
+
+dir
+10
+http://192.168.220.130/svn/testrepo/trunk/mobileapp
+http://192.168.220.130/svn/testrepo
+
+
+
+2016-11-04T11:58:00.375550Z
+5
+dev1
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0dbc2f59-d8a2-4b76-9743-3c12ee229b18
+
+mobile.sh
+file
+
+
+
+
+2016-11-08T02:08:18.000000Z
+c6ad4d9c5b03d1b42aec7d14899614db
+2016-11-04T11:58:00.375550Z
+5
+dev1
+

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hudson.scm.SubversionSCM_-DescriptorImpl plugin="subversion@1.54">
+  <generation>5</generation>
+  <credentials class="hashtable">
+    <entry>
+      <string>&lt;http://192.168.220.130:80&gt; Test Repo</string>
+      <hudson.scm.SubversionSCM_-DescriptorImpl_-PasswordCredential>
+        <userName>sindhu</userName>
+        <password>DLgPnOKj8D2hxiit0UDaF+CBl9GpIeG+f4jpx2U4obk=</password>
+      </hudson.scm.SubversionSCM_-DescriptorImpl_-PasswordCredential>
+    </entry>
+  </credentials>
+  <workspaceFormat>8</workspaceFormat>
+  <validateRemoteUpToVar>false</validateRemoteUpToVar>
+  <storeAuthToDisk>true</storeAuthToDisk>
+</hudson.scm.SubversionSCM_-DescriptorImpl>

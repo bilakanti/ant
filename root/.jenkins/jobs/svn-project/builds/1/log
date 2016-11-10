@@ -1,0 +1,28 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /root/.jenkins/jobs/svn-project/workspace
+Checking out a fresh workspace because there's no workspace at /root/.jenkins/jobs/svn-project/workspace
+Cleaning local Directory .
+Checking out http://192.168.220.130/svn/testrepo at revision '2016-11-08T07:38:17.654 +0530'
+A         script2.sh
+A         Phase 1
+A         Phase 1/Code1.sh.txt
+A         Phase 1/Code1.sh
+A         Phase2
+A         Phase2/code2.txt
+A         phase3
+A         phase3/code3.txt
+A         phase3/code3.sh
+A         trunk
+A         trunk/mobileapp
+A         trunk/mobileapp/mobile.sh
+AU        trunk/source.sh
+A         Myapp
+AU        index.html
+A         tag
+A         tag/release1
+A         tag/release2
+A         branch
+AU        script.sh
+A         script2.sh.txt
+At revision 10
+Finished: SUCCESS

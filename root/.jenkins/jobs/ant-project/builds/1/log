@@ -1,0 +1,36 @@
+Started by user [8mha:AAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgY+/dLi1CL94sy8lIzSrEQAoXI3ccMAAAA=[0msindhu
+Building in workspace /root/.jenkins/jobs/ant-project/workspace
+Cloning the remote Git repository
+Cloning repository https://github.com/bilakanti/devops.git
+ > git init /root/.jenkins/jobs/ant-project/workspace # timeout=10
+Fetching upstream changes from https://github.com/bilakanti/devops.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress https://github.com/bilakanti/devops.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/bilakanti/devops.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/bilakanti/devops.git # timeout=10
+Fetching upstream changes from https://github.com/bilakanti/devops.git
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress https://github.com/bilakanti/devops.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision dc56f049bcaf9f45b3d6c6ad931ba82ee20fa17d (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f dc56f049bcaf9f45b3d6c6ad931ba82ee20fa17d
+First time build. Skipping changelog.
+[workspace] $ /opt/apache-ant-1.9.7/bin/ant create
+Buildfile: /root/.jenkins/jobs/ant-project/workspace/build.xml
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0minfo:
+     [echo]  welcome to ant 
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mdelete:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mcreate:
+    [mkdir] Created dir: /root/.jenkins/jobs/ant-project/workspace/d1
+    [mkdir] Created dir: /root/.jenkins/jobs/ant-project/workspace/d2
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSGjNKU4P0+vJLE4u1gvPjGvRM8xr8S/tCQ5PzfVL78ktUuDM0uMry+HiYGhoohBCqo8OT+vOD8nVc8ZQoMUMkAAI0hhAQAUXUdTXgAAAA==[0mBUILD SUCCESSFUL
+Total time: 2 seconds
+Finished: SUCCESS
